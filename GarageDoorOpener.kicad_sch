@@ -1,0 +1,19 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 1612a4ab-ac63-4c5f-8280-c670cc2744a2)
+
+  (paper "A4")
+
+  (title_block
+    (title "Garage Door Opener")
+    (date "2023-03-27")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
